@@ -1,0 +1,11 @@
+order_id,customer_id,product_category,total_amount
+ORD-2026-001,CUST-9421,Electronics,1249.99
+ORD-2026-004,CUST-1042,Electronics,599.00
+ORD-2026-012,CUST-3381,Electronics,850.50
+ORD-2026-019,CUST-7742,Electronics,2100.00
+ORD-2026-022,CUST-1102,Electronics,515.25
+ORD-2026-035,CUST-5590,Electronics,1749.99
+ORD-2026-041,CUST-2231,Electronics,620.00
+ORD-2026-048,CUST-8819,Electronics,1350.00
+ORD-2026-053,CUST-4401,Electronics,799.95
+ORD-2026-060,CUST-1935,Electronics,945.10
